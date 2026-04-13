@@ -1,5 +1,5 @@
 import React from 'react';
-import { Layers, Filter, Search } from 'lucide-react';
+import { Search } from 'lucide-react';
 import './Page.css';
 
 const Catalog = () => {

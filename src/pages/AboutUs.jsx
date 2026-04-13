@@ -1,5 +1,5 @@
 import React from 'react';
-import { Users, Target, Heart, Zap } from 'lucide-react';
+import { Target, Heart } from 'lucide-react';
 import './Page.css';
 
 const AboutUs = () => {
